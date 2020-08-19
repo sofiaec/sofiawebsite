@@ -1,0 +1,111 @@
+.top-container {
+  background-color: #f1e3cb;
+  position: relative;
+  padding-top: 30px;
+}
+
+.title {
+  margin: 50px auto 0 auto;
+
+  font-family: 'Sacramento', cursive;
+  font-size: 5.6525rem;
+  color: #581c0c;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+.oldbooks {
+  position: absolute;
+  width: 200px;
+  left: 5%;
+}
+.skills{
+  width: 50%;
+  margin: 100px auto 130px auto;
+}
+
+.skill1{
+  float:left;
+
+    width:200px;
+     border-radius: 100%;
+     margin-right: 50px;
+}
+.skill2{
+  float:right;
+
+    width:200px;
+     border-radius: 100%;
+      margin-left: 50px;
+}
+.oldsinglebook {
+  position: absolute;
+  width: 200px;
+  right: 5%;
+  top: 55px;
+}
+.skill-row2{
+  margin-top: 80px;
+}
+
+.me{
+  width:300px;
+   border-radius: 100%;
+}
+.btn{
+    color:#f9b384
+}
+body {
+  margin: 0;
+  text-align: center;
+
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.5rem;
+  color: #ca5116;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Karla', sans-serif;
+  font-size: 2.5rem;
+  color: #f9b384;
+  font-weight: normal;
+}
+.myButton {
+	background-color:#f1e3cb;
+	border-radius:28px;
+	border:1px solid #f1e3cb;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Courier New;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#dbc6a4;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+h3 {
+  font-family: 'Karla', sans-serif;
+  color:#f1e3cb;
+}
+.footer-link{
+  color:#f9b384
+}
+.book {
+  text-decoration: underline;
+  font-weight:normal;
+}
+
+.bookspng {
+  width: 500px;
+  position: relative;
+  margin: 0 auto 0 auto;
+}
